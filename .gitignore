@@ -19,6 +19,7 @@
 *.rar
 *.tar
 *.zip
+temp_auto_push.bat
 
 # Logs and databases #
 ######################
@@ -39,4 +40,5 @@ Thumbs.db
 # Sample payload files #
 #####################
 # These files are used for testing and should not be included in the repository
-.temp/**
+.temp/**.gitignore
+branch_structure.json
